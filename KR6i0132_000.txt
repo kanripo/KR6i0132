@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛為年少比丘說正事經
+#+DATE: 2015-08-30 20:10:40.149307
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6i0132
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+說
