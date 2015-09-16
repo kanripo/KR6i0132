@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:39.918139
+#+DATE: 2015-08-30 20:10:41.410488
 #+TITLE: 佛為年少比丘說正事經
 #+PROPERTY: CBETA_ID T14n0502
 #+PROPERTY: ID KR6i0132
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 502
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0132_T_001-0771a> 
 #+PROPERTY: JUAN 1
 ¶
-No.502¶
-
- 佛為年少比丘說正事經¶
+No. 502¶
+佛為年少比丘說正事經¶
 ¶
 西晉沙門法炬譯¶
 
