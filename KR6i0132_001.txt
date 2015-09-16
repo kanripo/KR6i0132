@@ -1,24 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:39.918139
+#+DATE: 2015-08-30 20:10:41.637296
 #+TITLE: 佛為年少比丘說正事經
 #+PROPERTY: CBETA_ID T14n0502
 #+PROPERTY: ID KR6i0132
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 502
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0132_T_001-0771a> 
 #+PROPERTY: JUAN 1
 ¶
-No.502¶
-
- 佛為年少比丘說正事經¶
+No. 502¶
+佛為年少比丘說正事經¶
 ¶
 西晉沙門法炬譯¶
 
 如是我聞：
 
-一時佛住舍衛國祇樹給孤獨園¶
+一時佛住舍衛城祇樹給孤獨園¶
 夏安居。爾時眾多上座聲聞，於世尊左右樹¶
 下窟中安居。時有眾多年少比丘詣佛所，稽¶
 首佛足，退坐一面，佛為諸年少比丘，種種¶
@@ -72,7 +71,7 @@ No.502¶
 恚，修無常想斷我慢，修安那般那念斷覺想。¶
 云何比丘修安那般那念斷覺想？是比丘依¶
 止聚落，乃至觀滅出息，如觀滅出息覺，是¶
-名修安那般那念斷覺想。」
+名修安那般那念斷覺相。」
 
 佛說此經已，諸¶
 比丘聞佛所說，歡喜奉行。¶
