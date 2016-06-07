@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:39.918139
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:40
 #+TITLE: 佛為年少比丘說正事經
 #+PROPERTY: CBETA_ID T14n0502
 #+PROPERTY: ID KR6i0132
